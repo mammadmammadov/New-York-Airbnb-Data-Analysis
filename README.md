@@ -32,7 +32,7 @@ The dataset used in this project (`airbnb_nyc.csv`) contains the following colum
 
 ## Usage
 
-Ensure you have Python and necessary libraries installed (pandas, matplotlib, seaborn). You can clone this repository to run the code using Jupyter Notebook from Anaconda Prompt.
+Ensure you have Python with its necessary libraries installed (pandas, numpy, geopy), and Anaconda environment set (for better use). You can clone this repository to run the code using Jupyter Notebook from Anaconda Prompt.
 
 ```bash
 https://github.com/mammadmammadov/New-York-Airbnb-Data-Analysis.git
