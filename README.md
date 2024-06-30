@@ -32,9 +32,9 @@ The dataset used in this project (`airbnb_nyc.csv`) contains the following colum
 
 ## Usage
 
-Ensure you have Python and necessary libraries installed (pandas, numpy, geopy). You can clone this repository and run the code:
+Ensure you have Python and necessary libraries installed (pandas, matplotlib, seaborn). You can clone this repository to run the code using Jupyter Notebook from Anaconda Prompt.
 
 ```bash
-git clone https://github.com/yourusername/airbnb-nyc-analysis.git
-cd airbnb-nyc-analysis
-python analyze_airbnb.py
+https://github.com/mammadmammadov/New-York-Airbnb-Data-Analysis.git
+cd New-York-Airbnb-Data-Analysis
+jupyter notebook
