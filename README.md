@@ -35,6 +35,6 @@ The dataset used in this project (`airbnb_nyc.csv`) contains the following colum
 Ensure you have Python with its necessary libraries installed (pandas, numpy, geopy), and Anaconda environment set (for better use). You can clone this repository to run the code using Jupyter Notebook from Anaconda Prompt.
 
 ```bash
-git clone https://github.com/mammadmammadov/New-York-Airbnb-Data-Analysis.git
+git clone https://github.com/mammadmammadov/New-York-Airbnb-Data_Analysis.git
 cd New-York-Airbnb-Data-Analysis
 jupyter notebook
